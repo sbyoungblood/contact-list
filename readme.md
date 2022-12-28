@@ -13,7 +13,7 @@ The basic design and layout for this app has been mocked out and the names of th
 
 #### Visualization
 - The add contact form can be shown or hidden when necessary
-- Contacts marked as Emergency Contact must be easily distiguished
+- Contacts marked as Emergency Contact must be easily distinguished
 - A custom Google Font must be added
 - Contacts are visible when the page reloads
 
